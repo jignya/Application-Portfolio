@@ -79,5 +79,6 @@ An Arabic digital book library app offering a wide range of titles across genres
 
 **Tech Stack:** UIKit, Arabic Localization, AudioKit
 
+
 ---
-📄 [Download My Resume](assets/Jignya_Resume.pdf) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email Me](mailto:your.email@example.com)
+📄 [Download My Resume](assets/Jignya_Resume.pdf) • [LinkedIn](https://linkedin.com/in/jignya-panchal-b3588b7a) • [Email Me](mailto:jignyapanchal@gmail.com)
