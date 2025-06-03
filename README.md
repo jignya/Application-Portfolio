@@ -81,4 +81,4 @@ An Arabic digital book library app offering a wide range of titles across genres
 
 
 ---
-📄 [Download My Resume](assets/Jignya_Resume.pdf) • [LinkedIn](https://linkedin.com/in/jignya-panchal-b3588b7a) • [Email Me](mailto:jignyapanchal@gmail.com)
+📄 [Download My Resume](assests/Jignya_Resume.pdf) • [LinkedIn](https://linkedin.com/in/jignya-panchal-b3588b7a) • [Email Me](mailto:jignyapanchal@gmail.com)
