@@ -1,7 +1,7 @@
 ## ✈️ Kuwait Airways – Official Flight Booking App  
 [View on App Store](https://apps.apple.com/us/app/kuwait-airways/id1006385313)
 
-**Role:** iOS Developer  
+**Role:** Junior iOS Developer  
 **Tech Stack:** Swift, UIKit, REST APIs, Firebase, Core Data  
 **Platform:** iOS (Universal – iPhone & iPad)
 
