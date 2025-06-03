@@ -20,12 +20,12 @@ An official app for *The Slow Movement* founded by Neelesh Misra – a platform 
 ### [Omahat](projects/omahat.md)
 A custom shopping app tailored for mothers and children in Kuwait and the GCC region.
 
-- 🧩 Developed custom UI components with **UIKit**.
+- 🧩 Developed custom UI components with **UIKit** and **SwiftUI**.
 - 📈 Integrated **Google Analytics** for user journey insights.
 - 🔔 Implemented **remote/local notifications** for abandoned cart reminders.
 - 💳 Integrated **third-party payment gateways** for seamless checkout.
 
-**Tech Stack:** UIKit, Google Analytics, Firebase, Payment Gateway 
+**Tech Stack:** UIKit, Combine, Google Analytics, Firebase, Payment Gateway 
 
 ### [Home Finch](projects/home-finch.md)
 A home services booking app enabling users to schedule professionals for home repairs and cleaning.
