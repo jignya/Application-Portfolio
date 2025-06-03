@@ -43,5 +43,5 @@
 ---
 
 ### 📸 Screenshots
-[View Here](assets/ABCTalkies) 
+[Screenshot 1](assets/ABCTalkies/ABC_1.PNG) * [Screenshot 2](assets/ABCTalkies/ABC_2.PNG) * [Screenshot 3](assets/ABCTalkies/ABC_3.PNG) * [Screenshot 4](assets/ABCTalkies/ABC_4.PNG) 
 
