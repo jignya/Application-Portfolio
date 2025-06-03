@@ -1,6 +1,8 @@
 ## 🎧 The Slow App – Live Podcast & Storytelling Platform  
 *(Private demo available upon request)*
 
+[View on App store] (https://apps.apple.com/ca/app/the-slow-app/id1554047983)
+
 **Role:** Senior iOS Developer  
 **Tech Stack:** Swift, SwiftUI, UIKit, Live Streaming, Firebase, AVFoundation  
 **Platform:** iOS (Universal – iPhone & iPad)
